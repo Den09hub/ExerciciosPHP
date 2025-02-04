@@ -1,3 +1,5 @@
+<!-- Escreva um algoritmo para somar dois números e multiplicar o resultado pelo primeiro número. -->
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>

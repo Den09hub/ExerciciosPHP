@@ -1,3 +1,5 @@
+<!-- Escreva um algoritmo que receba um valor, calcule e mostre para o usuário 5% e 50% deste valor. -->
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>

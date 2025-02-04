@@ -1,3 +1,5 @@
+<!-- Condicionais com dados -->
+
 <?php
 
 $clientes = [[

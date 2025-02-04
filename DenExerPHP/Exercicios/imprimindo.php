@@ -1,3 +1,5 @@
+<!-- Imprimindo dados -->
+
 <?php
 
 $clientes = [[
